@@ -1,0 +1,70 @@
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.zip
+*.tar.gz
+*.rar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/
+
+# Gradle
+.gradle/
+build/
+*.gradle
+
+# Spring Boot
+*.log
+application*.properties
+application*.yml
+application*.yaml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+
+# Node/npm (Release Please)
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform/
+.terraform.lock.hcl
+override.tf.json
+override.tf
+crash.log
+crash.*.log
+*_override.tf
+*_override.tf.json
+*_automation.tfvars
+*_automation.tfvars.json
+
+# OS
+Thumbs.db
+*.tmp
+
+# Local development
+.env
+.env.local
+.env.*.local
+

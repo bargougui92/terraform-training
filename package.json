@@ -1,0 +1,9 @@
+{
+  "name": "terraform-training",
+  "version": "0.1.0",
+  "description": "Terraform training module",
+  "devDependencies": {
+    "release-please": "^16.0.0"
+  }
+}
+
